@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T16:00:54 IST" name="Default suite" finished-at="2024-03-01T16:01:36 IST" duration-ms="42228">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T16:00:54 IST" name="Default test" finished-at="2024-03-01T16:01:36 IST" duration-ms="42228">
+      <class name="logins.Loginexcl">
+        <test-method is-config="true" signature="setup()[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:00:54 IST" name="setup" finished-at="2024-03-01T16:00:56 IST" duration-ms="2259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:00:57 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:00 IST" duration-ms="3859" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020956]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4553]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:00 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:03 IST" duration-ms="2672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020958]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4554]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:03 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:06 IST" duration-ms="2477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020959]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:06 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:08 IST" duration-ms="2585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020960]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4556]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:08 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:11 IST" duration-ms="2503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020961]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4557]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:11 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:13 IST" duration-ms="2557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020962]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4558]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:13 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:16 IST" duration-ms="2471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020963]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4559]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:16 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:18 IST" duration-ms="2465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020964]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4560]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:18 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:21 IST" duration-ms="2453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020965]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4561]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:21 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:23 IST" duration-ms="2474" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020966]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4562]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:23 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:26 IST" duration-ms="2468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020967]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4563]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:26 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:28 IST" duration-ms="2444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020968]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4564]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:28 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:31 IST" duration-ms="2459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020969]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4565]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:31 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:33 IST" duration-ms="2461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9730020970]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@4566]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:33 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:35 IST" duration-ms="2449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[454444400]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aa@149488]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:35 IST" name="tearDown" finished-at="2024-03-01T16:01:36 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- logins.Loginexcl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
