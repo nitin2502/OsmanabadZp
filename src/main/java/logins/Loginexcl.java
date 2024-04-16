@@ -1,6 +1,8 @@
 package logins;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -11,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
@@ -20,13 +23,14 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Loginexcl {
 	private WebDriver d;
-
+ 
 	@BeforeTest
 	public void setup() throws Exception {
 		WebDriverManager.chromedriver().setup();
 		System.setProperty("webdriver.http.factory", "jdk-http-client");
 		d = new ChromeDriver();
 		d.manage().window().maximize();
+	
 	}
 
 	@Test(dataProvider = "getData")
@@ -38,9 +42,9 @@ public class Loginexcl {
 		WebElement submit    =d.findElement(By.xpath("//span[@class='mdc-button__label'][1]"));
 		username1.sendKeys(username);
 		pwd1.sendKeys(password);
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		submit.click();
-	}
+		 	}
 	@DataProvider
 	public Object[][] getData() throws IOException {
 		String excelPath = "C:\\Users\\niting\\eclipse-workspace\\OsmanabadZp\\target\\excel\\logins.xlsx";

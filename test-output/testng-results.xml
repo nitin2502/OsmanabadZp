@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-01T16:00:54 IST" name="Default suite" finished-at="2024-03-01T16:01:36 IST" duration-ms="42228">
+  <suite started-at="2024-04-16T18:26:09 IST" name="Default suite" finished-at="2024-04-16T18:26:59 IST" duration-ms="50013">
     <groups>
     </groups>
-    <test started-at="2024-03-01T16:00:54 IST" name="Default test" finished-at="2024-03-01T16:01:36 IST" duration-ms="42228">
+    <test started-at="2024-04-16T18:26:09 IST" name="Default test" finished-at="2024-04-16T18:26:59 IST" duration-ms="50013">
       <class name="logins.Loginexcl">
-        <test-method is-config="true" signature="setup()[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:00:54 IST" name="setup" finished-at="2024-03-01T16:00:56 IST" duration-ms="2259" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:09 IST" name="setup" finished-at="2024-04-16T18:26:19 IST" duration-ms="9749" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:00:57 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:00 IST" duration-ms="3859" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:20 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:37 IST" duration-ms="17099" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:00 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:03 IST" duration-ms="2672" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:38 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:39 IST" duration-ms="1604" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:03 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:06 IST" duration-ms="2477" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:39 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:41 IST" duration-ms="1522" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:06 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:08 IST" duration-ms="2585" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:41 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:42 IST" duration-ms="1559" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,7 +75,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:08 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:11 IST" duration-ms="2503" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:42 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:44 IST" duration-ms="1475" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,7 +91,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:11 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:13 IST" duration-ms="2557" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:44 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:45 IST" duration-ms="1447" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -107,7 +107,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:13 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:16 IST" duration-ms="2471" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:45 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:47 IST" duration-ms="1513" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,7 +123,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:16 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:18 IST" duration-ms="2465" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:47 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:48 IST" duration-ms="1784" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -139,7 +139,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:18 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:21 IST" duration-ms="2453" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:48 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:50 IST" duration-ms="1675" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -155,7 +155,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:21 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:23 IST" duration-ms="2474" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:50 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:52 IST" duration-ms="1462" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -171,7 +171,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:23 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:26 IST" duration-ms="2468" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:52 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:53 IST" duration-ms="1443" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -187,7 +187,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:26 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:28 IST" duration-ms="2444" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:53 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:54 IST" duration-ms="1452" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -203,7 +203,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:28 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:31 IST" duration-ms="2459" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:54 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:56 IST" duration-ms="1447" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -219,7 +219,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:31 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:33 IST" duration-ms="2461" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:56 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:57 IST" duration-ms="1444" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -235,7 +235,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:33 IST" name="loginTest" data-provider="getData" finished-at="2024-03-01T16:01:35 IST" duration-ms="2449" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:57 IST" name="loginTest" data-provider="getData" finished-at="2024-04-16T18:26:59 IST" duration-ms="1475" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -251,7 +251,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-03-01T16:01:35 IST" name="tearDown" finished-at="2024-03-01T16:01:36 IST" duration-ms="345" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:logins.Loginexcl@7ce69770]" started-at="2024-04-16T18:26:59 IST" name="tearDown" finished-at="2024-04-16T18:26:59 IST" duration-ms="381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
